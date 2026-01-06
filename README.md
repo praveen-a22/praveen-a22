@@ -77,7 +77,7 @@
 
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
-| **LeetCode** | 40+ | - |
+| **LeetCode** | 100+ | - |
 | **CodeChef** | 300+| 1250 |
 
 
