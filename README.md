@@ -78,7 +78,7 @@
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
 | **LeetCode** | 40+ | - |
-| **CodeChef** | 300+| 1101 |
+| **CodeChef** | 300+| 1250 |
 
 
 ##  GitHub Analytics
@@ -147,6 +147,6 @@
 ###  Fun Fact
 *"In the vast universe of code, every problem is just a star waiting to be discovered!"*
 
-**⭐ From [Praveen S](https://github.com/praveen-ss)**
+**⭐ From [Praveen A](https://github.com/praveen-a22)**
 
 </div>
